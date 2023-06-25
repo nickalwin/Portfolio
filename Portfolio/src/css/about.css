@@ -1,0 +1,22 @@
+.container_about .row{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+    border: 1px solid #e7e7e7;
+    border-radius: 5px;
+    background-color: #f3f3f3;
+    box-shadow: 0 0 10px #e7e7e7;
+}
+.container_about .row ul{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+    border: 1px solid #e7e7e7;
+    border-radius: 5px;
+    background-color: #f3f3f3;
+    box-shadow: 0 0 10px #e7e7e7;
+}
