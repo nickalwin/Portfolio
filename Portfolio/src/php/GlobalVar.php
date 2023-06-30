@@ -19,6 +19,7 @@ $globalVar = array(
         "../css/Footer.css",
         "../css/nav.css",
         "../css/about.css",
+        "../css/contact.css",
         "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
         "https://fonts.googleapis.com/css?family=Roboto:400,100,300,700",
     ),
